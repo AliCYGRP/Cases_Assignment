@@ -83,5 +83,5 @@ function Camel() {
         mytext.slice(i + 2);
     }
   }
-  document.getElementById("output").innerHTML = "After Pascal Case: " + mytext;
+  document.getElementById("output").innerHTML = "After Camel Case: " + mytext;
 }
